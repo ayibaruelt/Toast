@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Second_Screen">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text=" Importance of sociology
+According to our picture we can see so may elements which describes our theme.Relationship,conversation,education and so on.These and not only they are elements which create sociology.Why do we need sociology? Study of sociology allows to be confident about their own personal identity. A sociological look at the world provides a number of unique benefits and perspectives.
+Sociology provides an understanding of social issues and patterns of behavior. It helps us identify the social rules that govern our lives. Sociologi study how these rules are created, maintained, changed, passed between generations and shared between people living in various parts of the world. They also study what happens when these rules are broken.
+R: What is Sociology?
+1)Sociology is the study of human behavior, interaction, social ties, or social processes by which sociologists attempt to determine how the society (i.e. social institutions) is working and surviving, the growth of society, its practice and structures, what sorts of rules regulations are utilized, sorts of groups and communities, social events/phenomena, etc.
+In order words, sociology is the behaviors, relations, activities, and interrelations of human beings in society relating them to each other. It also lays its emphasis on the study of human relations with political, social, cultural, and religious institutions.
+2)Auguste Comte is considered to be the “father of sociology” not only because he was the first person to use the word ‘sociology’ in print in 1839, but also the one who emphasized and established sociology as a scientific discipline
+The term Sociology' was coined by Auguste Comte, a French philosopher in his book 'The course of Positive Philosophy' in 1838.The word 'Sociology' is derived from the Latin word ‘Societus’ means ‘society’, ‘companion’ or’ associate’, and the Greek word ‘Logos’ means `study or science’. Thus, the etymological meaning of sociology is the scientific study of society or the science of society. It is the study of man’s behavior in groups and society as a whole.
+3) Sociology is an independent science: It is an independent science as it has its own subject matter
+It is a Social Science and not a Physical Science: It belongs to the family of social sciences and not physical science.
+It is a categorical (group) and not a normative discipline: It is a scientific discipline that adopts a realistic approach to the study of society
+It is a Pure Science and not an Applied Science: It is concerned with the acquisition of knowledge about human society
+It is a General Science and not a Special Social Science: The area of inquiry in sociology is vague and wide. It studies social interaction and inter-relations in general."
+
+ />
+
+
+
+
+    </ScrollView>
+</LinearLayout>
